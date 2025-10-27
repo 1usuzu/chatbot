@@ -1,4 +1,3 @@
-
 Chuẩn bị gì trước mỗi kỳ thi/môn thi?;"Xem thử mình chưa có máy tính thì đăng ký thi máy tính ở trường hoặc mượn máy tính của bạn;<br>nếu có máy tính thì chuẩn bị tải App dự thi của trường;<br>xem lịch thi và đi đúng thời gian thi tránh trễ giờ;<br>xem quy chế thi;<br>chuẩn bị giấy tờ tùy thân (thẻ sinh viên/CCCD/bằng lái xe...);<br>học bài trước khi thi;<br>tự chuẩn bị sạc và ổ cắm máy tính."
 
 Thời gian quy định khi đi thi là mấy giờ?;"Sinh viên phải có mặt tại phòng thi ít nhất 15 phút trước khi bắt đầu thi;<br>trong thời gian này cán bộ coi thi sẽ kiểm tra thẻ sinh viên/CCCD và danh sách phòng thi;<br>phổ biến quy chế thi;<br>phát đề hoặc hướng dẫn đăng nhập hệ thống thi (nếu thi máy tính);<br>ổn định chỗ ngồi và kiểm tra dụng cụ."
@@ -16,6 +15,7 @@ Phúc khảo cần làm gì?;"Kiểm tra thông báo kết quả thi và thời 
 Điền đơn phúc khảo bao gồm những gì?;"Tải mẫu đơn 'Đăng ký phúc khảo bài thi kết thúc học phần' (mẫu QT13-KT theo quy trình của Học viện);<br>điền đầy đủ thông tin: họ tên, mã sinh viên, mã học phần, môn thi, điểm công bố, lý do đề nghị phúc khảo và mong muốn điều chỉnh."
 
 Phần mềm không cập nhật được khi mở bình thường, phải làm gì?;Kết nối vào wifi EXAM hoặc G-EXAM , tắt ứng dụng chữ "T" đang chạy , mở thư mục C:\Program Files (x86)\PMT-EMS\PMT-EMS ExamSys Test V2 , nhấp chuột phải vào file “PMT.AutoUpdate” và chọn “Run as Administrator”.
+
 File cần chạy bằng quyền quản trị viên là file nào?;setup.exe nằm trong thư mục cài đặt của TEST V2.
 
 Nếu không chạy “Run as Administrator” thì hậu quả là gì?;Phần mềm không thể ghi đè file cũ, gây lỗi hoặc không cập nhật được.
