@@ -1,0 +1,155 @@
+
+Chuẩn bị gì trước mỗi kỳ thi/môn thi?;"Xem thử mình chưa có máy tính thì đăng ký thi máy tính ở trường hoặc mượn máy tính của bạn;<br>nếu có máy tính thì chuẩn bị tải App dự thi của trường;<br>xem lịch thi và đi đúng thời gian thi tránh trễ giờ;<br>xem quy chế thi;<br>chuẩn bị giấy tờ tùy thân (thẻ sinh viên/CCCD/bằng lái xe...);<br>học bài trước khi thi;<br>tự chuẩn bị sạc và ổ cắm máy tính."
+
+Thời gian quy định khi đi thi là mấy giờ?;"Sinh viên phải có mặt tại phòng thi ít nhất 15 phút trước khi bắt đầu thi;<br>trong thời gian này cán bộ coi thi sẽ kiểm tra thẻ sinh viên/CCCD và danh sách phòng thi;<br>phổ biến quy chế thi;<br>phát đề hoặc hướng dẫn đăng nhập hệ thống thi (nếu thi máy tính);<br>ổn định chỗ ngồi và kiểm tra dụng cụ."
+
+Được phép trễ bao lâu khi đã vào ca thi?;"Trễ dưới 15 phút: có thể được cho vào thi nếu có lý do chính đáng và chưa phát đề/chưa ai ra khỏi phòng thi;<br>trễ từ 15 phút trở lên: không được vào phòng thi dù có lý do;<br>bị tính là vắng thi hoặc 0 điểm cho học phần đó (theo quy định nội bộ của HVHK và Bộ GD&ĐT)."
+
+Thời gian đăng ký thi máy tính ở trường là khi nào?;"Trước mỗi kỳ thi, nhà trường sẽ thông báo trên trang sinh viên trước 2 tuần;<br>nếu đã đăng ký máy trường thì phải thi bằng máy trường, không được thi bằng máy cá nhân."
+
+Quy chế thi bao gồm những gì?;"Không mang theo điện thoại, smartwatch, tai nghe, tài liệu (tùy môn thi) vào phòng thi;<br>đến đúng giờ (muộn quá 15 phút không được vào thi);<br>không trao đổi, quay cóp, gian lận – bị phát hiện sẽ bị hủy kết quả hoặc xử lý kỷ luật;<br>thẻ sinh viên hoặc CMND/CCCD là bắt buộc khi vào phòng thi."
+
+Sau khi thi cần kiểm tra những gì?;"Liên tục cập nhật trang sinh viên để xem điểm thi tránh sai sót;<br>nếu cảm thấy năng lực làm bài tốt có thể nộp đơn phúc khảo."
+
+Phúc khảo cần làm gì?;"Kiểm tra thông báo kết quả thi và thời hạn phúc khảo;<br>sau khi có kết quả thi được công bố trên trang sinh viên, nếu thấy điểm không đúng với năng lực, có thể yêu cầu phúc khảo;<br>truy cập trang sinh viên để tải biểu mẫu phúc khảo, điền đơn, nộp hồ sơ và lệ phí (nếu có), chờ kết quả;<br>lưu ý: phúc khảo không đảm bảo điểm sẽ thay đổi mà chỉ kiểm tra lại quá trình chấm thi;<br>nên nộp đơn sớm sau khi có điểm."
+
+Điền đơn phúc khảo bao gồm những gì?;"Tải mẫu đơn 'Đăng ký phúc khảo bài thi kết thúc học phần' (mẫu QT13-KT theo quy trình của Học viện);<br>điền đầy đủ thông tin: họ tên, mã sinh viên, mã học phần, môn thi, điểm công bố, lý do đề nghị phúc khảo và mong muốn điều chỉnh."
+
+Phần mềm không cập nhật được khi mở bình thường, phải làm gì?;Nhấn chuột phải vào file TEST V2 → chọn Run as Administrator để cập nhật với quyền quản trị.
+
+File cần chạy bằng quyền quản trị viên là file nào?;setup.exe nằm trong thư mục cài đặt của TEST V2.
+
+Nếu không chạy “Run as Administrator” thì hậu quả là gì?;Phần mềm không thể ghi đè file cũ, gây lỗi hoặc không cập nhật được.
+
+Làm sao để mở menu có tùy chọn “Run as Administrator”?;Nhấn chuột phải vào biểu tượng file thực thi (đuôi .exe).
+
+Vì sao cần tắt phần mềm chữ “T” trước khi chạy cập nhật?;Vì ứng dụng đang chạy có thể khóa file, khiến việc cập nhật thất bại.
+
+Thư mục mặc định chứa phần mềm PMT là gì?;C:\Program Files (x86)\PMT-EMS\PMT-EMS ExamSys Test V2
+
+Phần mềm bị treo ở bước “Đang tải dữ liệu thi”, phải làm gì?;Kiểm tra kết nối mạng nội bộ, tắt tạm firewall hoặc diệt virus.<br>Nếu vẫn không tải được, báo kỹ thuật viên phòng thi để kiểm tra server.
+
+Không thể kết nối đến server và máy trạm, nguyên nhân thường là gì?;Do không kết nối đúng Wi-Fi EXAM hoặc G-EXAM của trường.
+
+Vì sao không thể mở PMT ở nhà?;Vì phần mềm chỉ hoạt động trong mạng nội bộ thi, không qua Internet.
+
+Nếu chạy bản cũ, phần mềm báo lỗi cấu hình, nên làm gì?;Gỡ cài đặt bản cũ → cài lại từ bản chuẩn mới của trường.
+
+Phần mềm báo “Không thể kết nối đến server”, phải kiểm tra gì trước?;Kiểm tra Wi-Fi đã vào đúng mạng thi EXAM/G-EXAM chưa.
+
+Nếu máy dùng mạng dây, cần lưu ý điều gì?;Kiểm tra địa chỉ IP và DNS, tránh đặt proxy ngoài.
+
+Khi cài lại phần mềm, cần chạy file setup bằng quyền gì?;Quyền Administrator để đảm bảo ghi file vào thư mục hệ thống.
+
+Nếu thấy thông báo “Có lỗi xảy ra trong chương trình”, nên làm gì?;Gỡ hoàn toàn phần mềm → cài lại từ bản chính thức của trường.
+
+Phần mềm không khởi động được, bước khắc phục đầu tiên là gì?;Nhấn chuột phải vào biểu tượng PMT → chọn Run as Administrator.
+
+Nếu sau khi cài đặt mà biểu tượng PMT không mở được?;Kiểm tra quyền truy cập thư mục cài đặt và chạy lại file cập nhật.
+
+Phần mềm không thấy tên sinh viên trong danh sách thi, làm sao?;Kiểm tra lại thông tin đăng ký thi, nếu sai liên hệ giảng viên coi thi.
+
+Lỗi “Mật khẩu không đúng” thường do nguyên nhân nào?;Do gõ sai, bật Caps Lock, hoặc dùng sai mật khẩu cấp cho ca thi.
+
+Nếu quên mật khẩu thi thì phải làm sao?;Báo giám thị hoặc quản trị viên reset lại mật khẩu trên hệ thống.
+
+Lỗi “Đã đăng nhập trên máy khác” thì xử lý ra sao?;Thoát khỏi máy cũ nếu còn truy cập, hoặc nhờ quản trị viên hủy phiên đăng nhập.
+
+Phần mềm báo “Không tải được đề thi”, phải làm gì?;Ping thử địa chỉ server thi, tắt tạm firewall, kiểm tra lại Wi-Fi nội bộ.
+
+Cách kiểm tra kết nối mạng nội bộ bằng lệnh nào?;Mở CMD → gõ ping <địa chỉ_server_thi>.
+
+Nếu antivirus chặn phần mềm, nên xử lý thế nào?;Tạm tắt phần mềm diệt virus khi vào phòng thi.
+
+Màn hình bị đen hoặc trắng, phần mềm không phản hồi?;Nhấn Ctrl + Alt + Delete → mở Task Manager → End Task phần mềm PMT.
+
+Sau khi kết thúc, không nộp bài được thì sao?;Kiểm tra lại kết nối Wi-Fi, thử bấm lại “Nộp bài”.
+
+Nếu phần mềm treo khi nộp bài?;Chụp ảnh màn hình, báo ngay cho giám thị hoặc kỹ thuật viên.
+
+Nếu phần mềm không cập nhật khi chạy AutoUpdate, cần làm gì?;Kiểm tra quyền admin, tắt PMT đang chạy, rồi chạy lại file cập nhật.
+
+Sau khi cập nhật thành công, nên làm bước gì tiếp theo?;Khởi động lại máy, mở PMT bằng quyền quản trị viên để kiểm tra.
+
+Vì sao cần khởi động lại sau khi cài đặt hoặc cập nhật PMT?;Để hệ thống Windows nạp lại các thư viện và thiết lập mới.
+
+Nếu gặp lỗi không nằm trong hướng dẫn, sinh viên phải làm gì?;Báo ngay cho giảng viên coi thi hoặc bộ phận kỹ thuật để được hỗ trợ.
+
+
+Bước đầu tiên khi bắt đầu thi là gì?;Kết nối Wi-Fi “EXAM” hoặc “G-EXAM” của học viện theo mật khẩu được giám thị cung cấp.
+
+Nếu không thấy Wi-Fi “EXAM” xuất hiện?;Bật lại Wi-Fi, chọn “Quên mạng” cũ rồi kết nối lại. Nếu vẫn không thấy, báo kỹ thuật phòng thi.
+
+Có cần mở phần mềm trước khi vào phòng thi không?;Không. Chỉ mở khi được CBCT yêu cầu, để tránh lỗi kết nối hoặc sai ca thi.
+
+Phần mềm dùng để thi tên gì?;PMT-EMS ExamSys Test V2 (phần mềm thi trắc nghiệm có biểu tượng chữ “T”).
+
+Phần mềm “Chữ T” cài ở đâu?;Mặc định cài trong C:\Program Files (x86)\PMT-EMS\PMT-EMS ExamSys Test V2.
+
+Làm sao mở phần mềm “Chữ T”?;Tìm biểu tượng chữ “T” màu xanh dương trên màn hình → nhấn đúp để mở.
+
+Nếu phần mềm không mở khi nhấn đúp chuột thì sao?;Chuột phải chọn “Run as Administrator” để khởi động bằng quyền quản trị.
+
+Khi mở phần mềm, xuất hiện thông báo cập nhật thì sao?;Chọn “Cập nhật” để tải bản mới. Sau khi cập nhật xong, mở lại phần mềm.
+
+Nếu nhấn “Cập nhật” mà không có phản hồi?;Tắt phần mềm, chạy lại file “PMT.AutoUpdate” trong thư mục cài đặt.
+
+Cần chạy cập nhật khi nào?;Khi hệ thống báo “Cần cập nhật phiên bản mới” hoặc không đăng nhập được.
+
+Sau khi mở phần mềm, giao diện đầu tiên hiển thị gì?;Giao diện đăng nhập gồm các ô: Mã sinh viên, Mật khẩu, Lớp học phần.
+
+Nhập thông tin đăng nhập như thế nào?;Điền đúng mã sinh viên, mật khẩu được cấp, chọn lớp học phần dự thi.
+
+Nếu không thấy lớp học phần của mình?;Báo CBCT hoặc cán bộ kỹ thuật để kiểm tra danh sách thi.
+
+Nếu nhập sai mật khẩu thì có bị khóa tài khoản không?;Không bị khóa, nhưng nên kiểm tra tắt Caps Lock và nhập lại chính xác.
+
+Sau khi đăng nhập, cần làm gì tiếp theo?;Kiểm tra lại thông tin cá nhân hiển thị và chờ CBCT kích hoạt ca thi.
+
+Làm sao biết CBCT đã kích hoạt thi?;Khi nút “Đăng nhập” hoặc “Bắt đầu thi” sáng lên, nghĩa là đã được kích hoạt.
+
+Nếu chưa được kích hoạt thì có nên bấm gì không?;Không, chỉ chờ giám thị thông báo bắt đầu thi rồi mới bấm.
+
+Khi được kích hoạt, nhấn nút nào để vào bài thi?;Nhấn “Đăng nhập” hoặc “Bắt đầu làm bài” trên màn hình chính.
+
+Sau khi vào thi, màn hình hiển thị gì?;Bên trái là danh sách câu hỏi, bên phải là nội dung câu hỏi và các lựa chọn đáp án.
+
+Làm sao chọn đáp án đúng?;Click vào ô tròn trước đáp án mà bạn cho là đúng, hệ thống sẽ tự lưu.
+
+Muốn chuyển qua câu tiếp theo thì làm sao?;Nhấn mũi tên → (Next) hoặc dùng phím mũi tên phải trên bàn phím.
+
+Quay lại câu trước thì làm sao?;Nhấn mũi tên ← (Previous) hoặc dùng phím mũi tên trái trên bàn phím.
+
+Có thể lọc xem câu đã làm và chưa làm không?;Có, chọn “Lọc câu hỏi” → “Đã trả lời” hoặc “Chưa trả lời” để xem nhanh.
+
+Phần mềm có tự lưu bài không?;Có. Mỗi khi chọn đáp án hoặc chuyển câu, hệ thống tự lưu lại tiến độ.
+
+Làm sao biết còn bao nhiêu thời gian thi?;Thời gian còn lại hiển thị trên thanh đồng hồ đếm ngược ở góc màn hình.
+
+Khi hết giờ, phần mềm có tự nộp bài không?;Có. Hệ thống tự động nộp bài khi hết thời gian thi.
+
+Nếu muốn nộp sớm thì sao?;Nhấn nút “Nộp bài” ở góc phải → xác nhận → chờ hệ thống ghi nhận thành công.
+
+Khi nhấn “Nộp bài”, phần mềm có hiển thị điểm luôn không?;Tùy kỳ thi, có thể hiện điểm ngay hoặc được giám thị công bố sau.
+
+Nếu phần mềm bị đơ khi đang trong giao diện thi?;Báo giám thị ngay. Không tự thoát phần mềm trừ khi được hướng dẫn.
+
+Sau khi nộp bài, có thể quay lại xem lại câu hỏi không?;Không. Khi đã nộp, bài thi sẽ được khóa và gửi lên server.
+
+Nếu lỡ đóng phần mềm trước khi nộp thì sao?;Báo CBCT để kiểm tra và cho phép đăng nhập lại nếu còn thời gian.
+
+Có thể đăng nhập lại sau khi nộp bài không?;Không. Sau khi nộp, tài khoản sẽ bị khóa ca thi.
+
+Nếu máy bị tắt trong khi đang chờ kích hoạt thi thì sao?;Mở lại máy, kết nối lại Wi-Fi và đăng nhập lại phần mềm, chờ CBCT kích hoạt lại.
+
+Có nên mở nhiều cửa sổ phần mềm cùng lúc không?;Không. Mỗi tài khoản chỉ được đăng nhập một lần trên một máy.
+
+Khi thấy phần mềm báo “Đang kiểm tra kết nối mạng”, có cần làm gì?;Không. Chờ vài giây để hệ thống kiểm tra kết nối, sau đó đăng nhập lại.
+
+Làm sao biết phần mềm hoạt động bình thường?;Khi đăng nhập xong, thấy đồng hồ đếm ngược và danh sách câu hỏi hiện đầy đủ.
+
+Nếu không thấy câu hỏi hiển thị trên màn hình?;Kiểm tra mạng thi hoặc báo CBCT để tải lại đề.
+
+Khi kết thúc ca thi, có cần tắt phần mềm không?;Có. Chờ giám thị xác nhận bạn đã nộp bài, sau đó thoát phần mềm và đóng máy.
+
+Cần lưu ý gì khi thi bằng phần mềm PMT-EMS?;Luôn kết nối đúng Wi-Fi thi, không tự cập nhật giữa giờ, không tắt phần mềm khi chưa nộp bài.
