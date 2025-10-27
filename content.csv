@@ -15,8 +15,7 @@ Phúc khảo cần làm gì?;"Kiểm tra thông báo kết quả thi và thời 
 
 Điền đơn phúc khảo bao gồm những gì?;"Tải mẫu đơn 'Đăng ký phúc khảo bài thi kết thúc học phần' (mẫu QT13-KT theo quy trình của Học viện);<br>điền đầy đủ thông tin: họ tên, mã sinh viên, mã học phần, môn thi, điểm công bố, lý do đề nghị phúc khảo và mong muốn điều chỉnh."
 
-Phần mềm không cập nhật được khi mở bình thường, phải làm gì?;Nhấn chuột phải vào file TEST V2 → chọn Run as Administrator để cập nhật với quyền quản trị.
-
+Phần mềm không cập nhật được khi mở bình thường, phải làm gì?;Kết nối vào wifi EXAM hoặc G-EXAM , tắt ứng dụng chữ "T" đang chạy , mở thư mục C:\Program Files (x86)\PMT-EMS\PMT-EMS ExamSys Test V2 , nhấp chuột phải vào file “PMT.AutoUpdate” và chọn “Run as Administrator”.
 File cần chạy bằng quyền quản trị viên là file nào?;setup.exe nằm trong thư mục cài đặt của TEST V2.
 
 Nếu không chạy “Run as Administrator” thì hậu quả là gì?;Phần mềm không thể ghi đè file cũ, gây lỗi hoặc không cập nhật được.
@@ -37,8 +36,6 @@ Nếu chạy bản cũ, phần mềm báo lỗi cấu hình, nên làm gì?;Gỡ
 
 Phần mềm báo “Không thể kết nối đến server”, phải kiểm tra gì trước?;Kiểm tra Wi-Fi đã vào đúng mạng thi EXAM/G-EXAM chưa.
 
-Nếu máy dùng mạng dây, cần lưu ý điều gì?;Kiểm tra địa chỉ IP và DNS, tránh đặt proxy ngoài.
-
 Khi cài lại phần mềm, cần chạy file setup bằng quyền gì?;Quyền Administrator để đảm bảo ghi file vào thư mục hệ thống.
 
 Nếu thấy thông báo “Có lỗi xảy ra trong chương trình”, nên làm gì?;Gỡ hoàn toàn phần mềm → cài lại từ bản chính thức của trường.
@@ -57,8 +54,6 @@ Lỗi “Đã đăng nhập trên máy khác” thì xử lý ra sao?;Thoát kh�
 
 Phần mềm báo “Không tải được đề thi”, phải làm gì?;Ping thử địa chỉ server thi, tắt tạm firewall, kiểm tra lại Wi-Fi nội bộ.
 
-Cách kiểm tra kết nối mạng nội bộ bằng lệnh nào?;Mở CMD → gõ ping <địa chỉ_server_thi>.
-
 Nếu antivirus chặn phần mềm, nên xử lý thế nào?;Tạm tắt phần mềm diệt virus khi vào phòng thi.
 
 Màn hình bị đen hoặc trắng, phần mềm không phản hồi?;Nhấn Ctrl + Alt + Delete → mở Task Manager → End Task phần mềm PMT.
@@ -74,7 +69,6 @@ Sau khi cập nhật thành công, nên làm bước gì tiếp theo?;Khởi đ�
 Vì sao cần khởi động lại sau khi cài đặt hoặc cập nhật PMT?;Để hệ thống Windows nạp lại các thư viện và thiết lập mới.
 
 Nếu gặp lỗi không nằm trong hướng dẫn, sinh viên phải làm gì?;Báo ngay cho giảng viên coi thi hoặc bộ phận kỹ thuật để được hỗ trợ.
-
 
 Bước đầu tiên khi bắt đầu thi là gì?;Kết nối Wi-Fi “EXAM” hoặc “G-EXAM” của học viện theo mật khẩu được giám thị cung cấp.
 
@@ -130,7 +124,7 @@ Khi hết giờ, phần mềm có tự nộp bài không?;Có. Hệ thống tự
 
 Nếu muốn nộp sớm thì sao?;Nhấn nút “Nộp bài” ở góc phải → xác nhận → chờ hệ thống ghi nhận thành công.
 
-Khi nhấn “Nộp bài”, phần mềm có hiển thị điểm luôn không?;Tùy kỳ thi, có thể hiện điểm ngay hoặc được giám thị công bố sau.
+Khi nhấn “Nộp bài”, phần mềm có hiển thị điểm luôn không?;Điểm sẽ được công bố sau 1 khoảng thời gian trên trang sinh viên, không hiển thị ngay.
 
 Nếu phần mềm bị đơ khi đang trong giao diện thi?;Báo giám thị ngay. Không tự thoát phần mềm trừ khi được hướng dẫn.
 
